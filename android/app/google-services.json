@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601990387826",
+    "firebase_url": "https://eardrum-70245.firebaseio.com",
+    "project_id": "eardrum-70245",
+    "storage_bucket": "eardrum-70245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601990387826:android:84a4c7aec3a22a07bb0aeb",
+        "android_client_info": {
+          "package_name": "com.softechwings.ear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601990387826-rjtb53biuke4enfp8e9kdp3qm6p3os3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfYFORhuBLsGVyPGUlKLn_4NhYI4NxKW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601990387826-rjtb53biuke4enfp8e9kdp3qm6p3os3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
